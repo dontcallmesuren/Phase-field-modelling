@@ -1,0 +1,12 @@
+06-07-2020
+
+1. PFM_PHI_DISABLED_dispV1 is for PF without PHI variable. Pure elastic
+2. Was compared with Q4_FEM_disp
+3. PFM_dispV1 works reaqsonably.
+TO CHECK
+1. Need to check PHI and G(PHI) and MESH
+2. Induce crack with PHI=1 as initial condition, instead of modifying mesh
+---------------------------------------------------------
+07-07-2020
+
+1.  
