@@ -3,6 +3,7 @@
 clear all
 close all
 clc
+tic
 
 %declare global variables here
 global E nu P C
